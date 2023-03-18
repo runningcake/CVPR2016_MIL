@@ -37,4 +37,6 @@ for id_ in ids:
             [255, 0, 0] # red (discriminative patch)
         ])
     )
+    if not os.path.exists("../visualize_disc_patches"):
+        os.mkdir("../visualize_disc_patches")
     vis.save(os.path.join("../visualize_disc_patches",id_+".png"))
