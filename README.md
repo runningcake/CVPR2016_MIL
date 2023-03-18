@@ -1,6 +1,6 @@
 # CVPR2016_MIL
-An implementation of "Patch-Based Convolutional Neural Network for Whole Slide Tissue Image Classification"
-
+An implementation of "Patch-Based Convolutional Neural Network for Whole Slide Tissue Image Classification"  
+[中文版 Chinese version](README.zh-CN.md)
 ## Table of Contents
 
 - [Description](#description)
