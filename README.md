@@ -8,7 +8,10 @@ An implementation of "Patch-Based Convolutional Neural Network for Whole Slide T
 - [License](#license)
 
 ## Description
-You can refer to the original paper: [Hou_Patch-Based_Convolutional_Neural_CVPR_2016_paper.pdf](https://openaccess.thecvf.com/content_cvpr_2016/papers/Hou_Patch-Based_Convolutional_Neural_CVPR_2016_paper.pdf)  
+You can refer to the original paper:
+- [Hou_Patch-Based_Convolutional_Neural_CVPR_2016_paper.pdf](https://openaccess.thecvf.com/content_cvpr_2016/papers/Hou_Patch-Based_Convolutional_Neural_CVPR_2016_paper.pdf) 
+- [Hou_Patch-Based_Convolutional_Neural_CVPR_2016_paper.html](https://openaccess.thecvf.com/content_cvpr_2016/papers/Hou_Patch-Based_Convolutional_Neural_CVPR_2016_paper.html)
+ 
 This is an implementation for the part that trains a convolutional neural network in an EM fashion.
 
 The key steps are briefly described as follows.  
