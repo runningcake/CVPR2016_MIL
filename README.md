@@ -22,10 +22,13 @@ The key steps are briefly described as follows.
     - #{old_discriminative_patches ∩ new} / max⁡(#{old}, #{new}) > 0.95
 
 ## Usage
+
 Before you run `train_cnn.py`, the following needs to be done.
 1. Edit the value of `NUM_CLASSES` in `train_cnn.py` according to your needs.
 2. Edit the value of `PATCHES_DIR` in `train_cnn.py`, which is the directory of your patches, according to your needs.
 3. Make sure your patches are named as `class_<k>_<id>_<i>_<j>.png` where k is for class and (i,j) is the patch's index in numpy-style (one patch as one unit).
+
+After the training is finished, run `./utils/visualize_disc_patches.py` to visualize the discriminative patches. Images indicating the results will be generated in a newly created directory `./visualize_disc`.
 
 ## License
 
