@@ -20,11 +20,7 @@ This is an implementation for the part that trains a convolutional neural networ
     - 原文说每类的类别阈值可以自定义，但没给数值，我们也自行定义为 90%
 4. 重复步骤 2-3 直至收敛
     - 原文没有给出收敛的标准，我们自行定义为
-    - $\frac{
-\#\{\text{old_discriminative_patches}\cap\text{new}\}
-}{
-\max⁡(\#\{\text{old}\}, \#\{\text{new}\})
-}>0.95$
+    - #{old_discriminative_patches ∩ new} / max⁡(#{old}, #{new}) > 0.95
 
 ## Usage
 Before you run `train_cnn.py`, the following needs to be done.
