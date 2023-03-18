@@ -9,7 +9,7 @@
 ## 描述
 原论文链接：
 - [Hou_Patch-Based_Convolutional_Neural_CVPR_2016_paper.pdf](https://openaccess.thecvf.com/content_cvpr_2016/papers/Hou_Patch-Based_Convolutional_Neural_CVPR_2016_paper.pdf) 
-- [Hou_Patch-Based_Convolutional_Neural_CVPR_2016_paper.html](https://openaccess.thecvf.com/content_cvpr_2016/papers/Hou_Patch-Based_Convolutional_Neural_CVPR_2016_paper.html)
+- [Hou_Patch-Based_Convolutional_Neural_CVPR_2016_paper.html](https://openaccess.thecvf.com/content_cvpr_2016/html/Hou_Patch-Based_Convolutional_Neural_CVPR_2016_paper.html)
 
 这是原文用 E-M 范式来训练卷积神经网络的部分的复现。
 
